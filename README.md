@@ -2,6 +2,7 @@
 
 
 This is a repo with works that involve worship experience in Church
+Here’s a Python script that takes song lyrics as input and generates a PowerPoint presentation with 2 lines per slide on a green background
 
 ### Step 1: Install Required Libraries
 First, install the necessary Python libraries:
